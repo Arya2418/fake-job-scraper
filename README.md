@@ -1,9 +1,9 @@
+Project URL: https://realpython.github.io/fake-jobs/
+
 # Fake Python Jobs Web Scraper 🕷️
 
 This project is a Python web scraper that collects job listings from the Fake Python Jobs website.
 
-## Website Scraped
-Project URL: https://realpython.github.io/fake-jobs/
 
 ## Features
 - Scrapes job title, company name, location, and job detail URL
